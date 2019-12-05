@@ -1,0 +1,194 @@
+[
+  {
+    "tipe": "ISTJ",
+    "deskripsi": "PENGINDERA YANG INTROVERT DENGAN PIKIRAN (INTROVERTED SENSING WITH THINKING) SANGAT DAPAT DIANDALKAN (SUPER DEPENDABLE)",
+    "bidang_karir": [
+      "Akuntansi",
+      "Teknik Sipil",
+      "Hukum",
+      "Reproduksi",
+      "Konstruksi",
+      "Karir Kesehatan",
+      "Pekerja Kantoran"
+    ]
+  },
+  {
+    "tipe": "ISFJ",
+    "deskripsi": "PENGINDERA YANG INTROVERT DENGAN PERASAAN (INTROVERTED SENSING WITH FEELING) SANGAT DAPAT DIANDALKAN (SUPER DEPENDABLE)",
+    "bidang_karir": [
+      "Mengajar",
+      "Penyedia jasa atau pemerhati pribadi",
+      "Profesi kesehatan",
+      "Pekerjaan kantoran"
+    ]
+  },
+  {
+    "tipe": "INFJ",
+    "deskripsi": "INTUITIF YANG INTROVERT DENGAN PERASAAN (INTROVERTED INTUITION WITH FEELING) VISIONER DAN NABI (VISIONARY AND PROPHET)",
+    "bidang_karir": [
+      "Pengajar",
+      "Seni",
+      "Pelayanan",
+      "Sains",
+      "Riset dan pengembangan",
+      "Menulis"
+    ]
+  },
+  {
+    "tipe": "INTJ",
+    "deskripsi": "INTUITIF YANG INTROVERT DENGAN PIKIRAN (INTROVERTED INTUITION WITH THINKING) VISIONER DAN NABI (VISIONARY AND PROPHET)",
+    "bidang_karir": [
+      "Sains",
+      "Rekayasa/teknik",
+      "Penemuan baru",
+      "Politik",
+      "Filsafat"
+    ]
+  },
+  {
+    "tipe": "ISTP",
+    "deskripsi": "PEMIKIR YANG INTROVERT DENGAN INDERA(INTROVERTED SENSING WITH THINKING) SANGAT DAPAT DIANDALKAN (SUPER DEPENDABLE)",
+    "bidang_karir": [
+      "Sains Terapan",
+      "Teknisi mekanis",
+      "Hukum",
+      "Ekonomi",
+      "Pemasaran",
+      "Penjualan",
+      "Statistika",
+      "Keamanan"
+    ]
+  },
+  {
+    "tipe": "ISFP",
+    "deskripsi": "PERASA YANG INTROVERT DENGAN INDERA (INTROVERTED FEELING WITH SENSING) PENCARI DAN PENJAGA NILAI MANUSIA (SEEKER AND KEEPER OF HUMAN VALUES) ",
+    "bidang_karir": [
+      "Dokter Hewan",
+      "Cipta karya denga tangan",
+      "Mengajar",
+      "Penyedia jasa atau pemerhati pribadi",
+      "Profesi kesehatan"
+    ]
+  },
+  {
+    "tipe": "INFP",
+    "deskripsi": "PERASA YANG INTROVERT DENGAN INTUISI (INTROVERTED FEELING WITH INTUITION) PENCARI DAN PENJAGA NILAI MANUSIA (SEEKER AND KEEPER OF HUMAN VALUES)",
+    "bidang_karir": [
+      "Menulis",
+      "Psikologi",
+      "Konseling",
+      "Mengajar",
+      "Literatur",
+      "Seni"
+    ]
+  },
+  {
+    "tipe": "INTP",
+    "deskripsi": "PEMIKIR YANG INTROVERT DENGAN INTUISI (INTROVERTED THINKING WITH INTUITION) PENGGAGAS TEORI (BUILDER OF THEORIES)",
+    "bidang_karir": [
+      "Sains",
+      "Rekayasa/Teknik",
+      "Riset",
+      "Matematika",
+      "Pengajar",
+      "Pemikir abstrak dalam bidang-bidang seperti ekenomi, filsafat, dan psikologi",
+      "Scholar/cendekiawan"
+    ]
+  },
+  {
+    "tipe": "ESTP",
+    "deskripsi": "PEMIKIR YANG INTROVERT DENGAN INTUISI (INTROVERTED THINKING WITH INTUITION) PENGGAGAS TEORI (BUILDER OF THEORIES)",
+    "bidang_karir": [
+      "Rekayasa/Teknik",
+      "Polisi",
+      "Investigasi Kredit",
+      "Pemasaran",
+      "Teknologi Kesehatan",
+      "Troubleshooting",
+      "Jasa Makanan",
+      "Rekreasi",
+      "Produksi",
+      "Konstruksi"
+    ]
+  },
+  {
+    "tipe": "ESFP",
+    "deskripsi": "PENGINDERA YANG EKSTROVERT DENGAN PERASAAN (EXTRAVERTED SENSING WITH FEELING) REALIS TULEN (SUPREME REALIST)",
+    "bidang_karir": [
+      "Jasa Kesehatan",
+      "Penjualan",
+      "Desain",
+      "Transportasi",
+      "Entertainment",
+      "Jasa makanan",
+      "Supervisi kelompok kerja",
+      "Troubleshooting",
+      "Sekretaris",
+      "Operasi mesin"
+    ]
+  },
+  {
+    "tipe": "ENFP",
+    "deskripsi": "INTUITIF YANG EKSTROVERT DENGAN PERASAAN (EXTRAVERTED INTUITITIVE WITH FEELING) INOVATOR YANG ANTUSIAS (ENTHUSIASTIC INNOVATOR)",
+    "bidang_karir": [
+      "Konseling",
+      "Pengajar",
+      "Seni",
+      "Jurnalisme",
+      "Sains",
+      "Menulis",
+      "Penjualan",
+      "Periklanan"
+    ]
+  },
+  {
+    "tipe": "ENTP",
+    "deskripsi": "INTUITIF YANG EKSTROVERT DENGAN PIKIRAN (EXTRAVERTED INTUITITIVE WITH THINKING) INOVATOR YANG ANTUSIAS (ENTHUSIASTIC INNOVATOR)",
+    "bidang_karir": [
+      "Inventor",
+      "Ilmuwan",
+      "Jurnalis",
+      "Pemasaran",
+      "Analisis komputer",
+      "Hampir semua yang sungguh-sungguh mereka minati",
+      "Promotor"
+    ]
+  },
+  {
+    "tipe": "ESTJ",
+    "deskripsi": "PEMIKIR YANG EKSTROVERT DENGAN INDERA (EXTRAVERTED THINKING WITH SENSING) KOMANDAN DAN ORGANISATOR(COMMANDANT AND ORGANIZER)",
+    "bidang_karir": [
+      "Posisi-posisi eksekutif",
+      "Bisnis",
+      "Industri, produksi"
+    ]
+  },
+  {
+    "tipe": "ESFJ",
+    "deskripsi": "PERASA YANG EKSTROVERT DENGAN INDERA (EXTRAVERTED FEELING WITH SENSING) HARMONIZER",
+    "bidang_karir": [
+      "Pengajar",
+      "Pengkhotbah",
+      "Penjual",
+      "Profesi Kesehatan"
+    ]
+  },
+  {
+    "tipe": "ENFJ",
+    "deskripsi": "PERASA YANG EKSTROVERT DENGAN INTUISI (EXTRAVERTED FEELING WITH INTUITION) HARMONIZER",
+    "bidang_karir": [
+      "Pengajar",
+      "Pengkhotbah",
+      "Penjual",
+      "Konseling"
+    ]
+  },
+  {
+    "tipe": "ENTJ",
+    "deskripsi": "PEMIKIR YANG EKSTROVERT DENGAN INTUISI (EXTRAVERTED THINKING WITH INTUITION) KOMANDAN DAN ORGANISATOR (COMMANDANT AND ORGANIZER)",
+    "bidang_karir":  [
+      "Posisi-posisi eksekutif",
+      "Pekerjaan yang memungkinkan mereka merencankan gambaran besar"
+    ]
+  }
+]
