@@ -10,6 +10,37 @@
       "Konstruksi",
       "Karir Kesehatan",
       "Pekerja Kantoran"
+    ],
+    "kecenderungan": [
+      "Dapat diandalkan, akurat",
+      "Penghargaan yang lengkap, realistik dan praktis terhadap fakta",
+      "Menerima tanggung jawab melampaui panggilan tugas",
+      "Menerima tanggung jawab melampaui panggilan tugas",
+      "Mendalam, bekerja keras, stabil"
+    ],
+    "penyeimbang": [
+		"Tidak mengharaqpkan orang-orang lain sama logis dan analitisnya seperti mereka",
+		"Menggunakan persepsi mereka untuk memahami orang-orang lain",
+		"Mengembangkan PIKIRAN mereka",
+		"Membagikan dunia batiniah tentang hal-hal detail dan informasi dengan orang-orang lain",
+		"Mengijinkan beberapa perasaan atau emosi memiliki kepentingan, baik dari diri sendiri dan orang-orang lain",
+		"Tidak menghabiskan terlalu banyak waktu ekstrovert atau terlalu banyak waktu sendirian"
+    ],
+    "cara_memimpin": [
+		"Terbuka terhadap fakta",
+		"Menjalankan pertemuan yang terfokus dan efisien",
+		"Menjelaskan tugas, metode dan harapan-harapan"
+    ],
+    "cara_mempengaruhi": [
+		"Menggunakan argumentasi logis yang didukung oleh fakta spesifik dan nyata",
+		"Mengemukakan ide-ide yang memadukan dan mengintegrasikan berbagai sudut pandang",
+		"Diam-diam mengatur dan memelihara struktur"
+    ],
+    "kontribusi": [
+		"Berusaha secara keras dan efisien untuk menyelesaikan tugas tepat waktu",
+		"Mengklasifikasikan ide-ide",
+		"Menggunakan akal sehat untuk memecahkan masalah",
+		"Menyediakan ketrampilan berorganisasi yang berfokus pada realitas"
     ]
   },
   {
@@ -20,6 +51,46 @@
       "Penyedia jasa atau pemerhati pribadi",
       "Profesi kesehatan",
       "Pekerjaan kantoran"
+    ],
+	"kecenderungan": [
+      "Mendasarkan keputusan pada nilai-nilai pribadi",
+	  "Dapat diandalkan, akurat",
+	  "Penghargaan yang lengkap, realistik dan praktis terhadap fakta",
+	  "Menerima tanggung jawab melampaui panggilan tugas",
+	  "Terampil, tenang dan tegar dalam suatu krisis",
+	  "Mendalam, bekerja keras, stabil",
+	  "Ketekunan yang menstabilkan",
+	  "Pilihan yang berhati-gati terhadap proyek",
+	  "Kemampuan berorganisasi",
+	  "Ramah, simpatik, banyak akal dan terbeban dengan tulus",
+	  "Kemampuan untuk mengingat hal-hal detil"
+    ],
+    "penyeimbang": [
+		"Tidak menghabiskan waktu terlalu banyak dalam kegiatan-kegiatan ekstrovert",
+		"Menggunakan persepsi mereka untuk memahami orang-orang lain",
+		"Mengembangkan PENILAIAN dan PERASAAN mereka",
+		"Membagikan dunia batiniah tentang hal-hal detil dan informasi dengan orang-orang lain",
+		"Tidak menghabiskan terlalu banyak waktu sendiri karena hal itu menyebabkan pikiran-pikiran tak produktif dan mungkin depresi"
+		
+    ],
+    "cara_memimpin": [
+		"Menolong secara diam-diam dengan gaya yang terbuka, membesarkan hati dan tidak mengancam",
+		"Menerima orang lain dan tanggapan mereka",
+		"Cermat, terorganisir, dan berorientasi pada tugas. Sangat memperhatikan kecepatan langkah dan tahap penyelesaian/pengakhiran"
+
+    ],
+    "cara_mempengaruhi": [
+		"Memecahkan.pokok-pokok persoalan dengan pertemuan secara one-on-one atau diluar pertemuan tim",
+		"Menghargai pengalaman dan bakat yang dimiliki orang lain",
+		"Memberikan informasi yang akurat dan memeriksa ketepatan informasi yang diberikan orang lain"
+
+    ],
+    "kontribusi": [
+		"Memberikan kejelasan arah, ketrampilan praktis berorganisasi, dan pemecahan masalah yang dapat diandalkan", 
+		"Menolong merangkum dan menyelesaikan pekerjaan dengan komentar konkrit dan faktual", 
+		"Menyimpan data dan memberikan catatan-catatan yang dapat diandalkan dan bertanggung jawab", 
+		"Rela mengerjakan tugas baru untuk kepentingan tim"
+
     ]
   },
   {
@@ -32,7 +103,45 @@
       "Sains",
       "Riset dan pengembangan",
       "Menulis"
-    ]
+    ],
+	"kecenderungan": [
+      "Intuisi dan pemahaman",
+		"Kesempatan untuk bersikap inovatif dengan gagasan baru ",
+		"Pemecahan masalah",
+		"Keharmonisan dan persekutuan ",
+		"Mahir membujuk orang-orang lain untuk menyetujui dan bekerja sama ",
+		"Memenangkan penerimaan gagas an-gagas an mereka ",
+		"Intuisi yang diperkuat oleh perasaan ",
+		"Memvisualisasikan potensi manusiawi ",
+		"Menggunakan suatu proses subyektif dalam menimbang dan menerapkan nilai-nilai"
+
+    ],
+    "penyeimbang": [
+		"Mencari hal-hal yang mungkin bertentangan dengan tujuan ",
+		"Perasaan dan penilaian mereka dikembangkan ",
+		"Belajar mendasarkan keputusan pada logika ",
+		"Berdisiplin antara waktu introvert dan ekstrovert"
+
+    ],
+    "cara_memimpin": [
+		"Membaca dan bekerja dengan hubungan interpersonal dalam kelompok ",
+		"Mengembangkan tinjauan atau gambar keseluruhan ",
+		"Menyimpulkan dan menutup pertemuan serta mengharapkan setiap anggota dapat memenuhi tugas-tugas yang ditugaskan kepadanya"
+
+    ],
+    "cara_mempengaruhi": [
+		"Mudah berkompromi kecualt bertentangan dengan nilai-nilai pribadi ",
+		"Menyatakan pemahaman dan visi-visi yang kreatif dan intuitif ",
+		"Menilai dinamika kelompok dan memberikan tinjauan dan kesimpulan yang mendalam"
+
+    ],
+    "kontribusi": [
+		"Melihat masalah dari sudut pandang yang luas/global ",
+		"Menunjukkan kredibilitas melalui ide-ide dan pemahaman ",
+		"Memberi inspirasi kepada orang lain melalui pendekatan yang positif, humoris, dan optimis dapat dilakukan ",
+		"Menilai situasi dan mendorong anggota tim untuk menyumbangkan kontribusi mereka"
+
+	]
   },
   {
     "tipe": "INTJ",
@@ -43,6 +152,40 @@
       "Penemuan baru",
       "Politik",
       "Filsafat"
+    ],
+	"kecenderungan": [
+		"Pikiran-pikiran dan juga tindakan-tindakan inovatif ",
+		"Mempercayai pemahaman intuitif mereka terhadap hubungan sejati dan makna dari hal-hal ",
+		"Iman terhadap visi batiniah mereka, cukup untuk memindahkan gunung ",
+		"Mandiri, kadang-kadang sampai pada titik keras kepala ",
+		"Nilai tinggi pada kompetensi, terhadap diri mereka sendiri atau orang lain ",
+		"Kerinduan untuk menghabiskan waktu dan berusaha untuk melihat inspirasi mereka dilaksanakan dalam praktek ",
+		"Mendorong orang lain hampir sekeras mereka mendorong diri sendiri"
+    ],
+    "penyeimbang": [
+		"Memiliki orang-orang lain di sekitar mereka yang dapat menolong dengan gambaran menyeluruh ",
+		"Membuat usaha untuk melihat nilai-nilai dan perasaan orang lain ",
+		"Tidak menekan nila-nilai pribadi mereka sendiri ",
+		"Mencari cara yang tepat untuk mengatasi tekanan ",
+		"Belajar menunjukkan penghargaan dalam pekerjaan dan hubungan pribadi ",
+		"Mengembangkan PIKIRAN mereka untuk memberikan penilaian yang diperlukan ",
+		"Mendengarkan pendapat orang-orang lain"
+    ],
+    "cara_memimpin": [
+		"Memanfaatkan ide-ide, pendirian dan keyakinan yang kuat ",
+		"Menolong tim dalam menegaskan, memutuskan dan mencapai tujuannya ",
+		"Menjaga tim agar tetap berada pada tujuannya"
+    ],
+    "cara_mempengaruhi": [
+		"Membujuk melalui pikiran yang jelas, argumentasi, logika, observasi, dan saran ",
+		"Gigih dan bertekad dalam menyampaikan ide-ide ",
+		"Menarik orang lain melalui visi yang memaksakan"
+    ],
+    "kontribusi": [
+		"Menawarkan sudut pandang baru dan mengajukan pertanyaan-pertanyaan yang menyelidik ",
+		"Memberikan pemahaman strategis dan visi ",
+		"Mengumpulkan dan mengorganisir ide-ide dan tugas ",
+		"Menyusun jadwal dan menyelesaikan tugas secara sistematis dan tepat waktu"
     ]
   },
   {
@@ -57,6 +200,43 @@
       "Penjualan",
       "Statistika",
       "Keamanan"
+    ],
+	"kecenderungan": [
+		"Logis, analitis dan kritis secara obyektif ",
+		"Kesenangan mengorganisir fakta dan data ",
+		"Keinginan tahu yang besar namun secara diam-diam ",
+		"Pemalu secara sosial kecuali bila salah satu prinsip penting dilanggar ",
+		"Mudah beradaptasi kecuali bila salah satu prinsip penting dilanggar ",
+		"Terampil dengan tangannya ",
+		"Menyukai olah raga dan kegiatan luar rumah (outdoor) ",
+		"Menyukai segala sesuatu yang memberikan banyak informasi bagi indera ",
+		"Tertarik pada bagaimana dan mengapa hal-hal bekerja ",
+		"Biasanya gampangan (easy-going), menyukai kesenangan (fun) dan mudah beradaptasi ",
+		"Kemampuan berorganisasi"
+    ],
+    "penyeimbang": [
+		"Tidak mengharapkan orang-orang lain sama logis dan analitisnya seperti mereka ",
+		"Mengembangkan PERASAAN mereka ",
+		"Membagikan dunia batiniah tentang hal-hal detil dan informasi dengan orang-orang lain ",
+		"Mengijinkan beberapa perasaan atau emosi memiliki kepentingan, baik dari diri sendiri dan orang-orang lain ",
+		"Tidak menghabiskan terlalu banyak waktu ekstrovert karena hal itu menyebabkan mereka menjadi tidak konsisten dan tak dapat diandalkan, tak mampu mengikuti ",
+		"Tidak menghabiskan terlalu banyak waktu introvert karena hal itu menyebabkan mereka memiliki penilaian yang rapuh"
+    ],
+    "cara_memimpin": [
+		"Bersikap pragmatis (memandang sesuatu menurut kegunaannya) dan rendah hati ",
+		"Mengevaluasi semua segi dan sudut pandang sebelum bertindak ",
+		"Menggunakan wewenang secara tenang dan tidak langsung"
+    ],
+    "cara_mempengaruhi": [
+		"Mengetahui dimana harus mendapatkan informasi yang diperlukan ",
+		"Membagikan pendapat dan pengalaman bila diminta ",
+		"Tekun"
+    ],
+    "kontribusi": [
+		"Menyediakan fakta, rincian dan berbagai perspektif ",
+		"Bersikap reflektif, mau mendengarkan, dan tekun ",
+		"Menggunakan ketrampilan analisa untuk mengatur tugas secara efisien ",
+		"Menggerakkan tim untuk bertindak"
     ]
   },
   {
@@ -68,6 +248,42 @@
       "Mengajar",
       "Penyedia jasa atau pemerhati pribadi",
       "Profesi kesehatan"
+    ],
+	"kecenderungan": [
+		"Menilai hidup dengan impian ideal batiniah dan nilai-nilai pribadi mereka ",
+		"Bekerja dengan cara khusus dengan orang-orang atau makhluk hidup lain ",
+		"Menjaga diri mereka sesuai standar yang tinggi ",
+		"Hewan dapat menjadi bagian penting dalam hidup mereka ",
+		"Setia kepada tugas, dapat diandalkan, akurat ",
+		"Toleran, berpikiran terbuka, fleksibel dan mampu beradaptasi ",
+		"Tampil tenang dan tegar dalam suatu krisis ",
+		"Mendalam, bekerja keras, stabil ",
+		"Ketekunan yang menstabilkan ",
+		"Menikmati saat-saat sekarang, tidak terburu-buru beralih ",
+		"Ramah, simpatik, banyak akal dan terbeban dengan tulus ",
+		"Sedikit kerinduan untuk mengesankan atau mendominasi ",
+		"Perfeksionis bila mereka menyukai sesuatu secara mendalam"
+    ],
+    "penyeimbang": [
+		"Tidak menghabiskan waktu terlalu banyak dalam kegiatan ekstrovert karena hal itu menyebabkan mereka menjadi berserakan dan tak teratur ",
+		"Menggunakan persepsi mereka untuk memahami orang-orang lain ",
+		"Tidak menghabiskan waktu terlalu banyak sendirian karena hal itu menyebabakan mereka membuat penilaian yang tak realistik dan bernilai kaku"
+    ],
+    "cara_memimpin": [
+		"Mendengarkan semua ide, membujuk orang-orang yang tidak setuju untuk menurut, dan mendapatkan dukungan menyeluruh atas solusi ",
+		"Membolehkan orang lain untuk memimpin bila ada kesempatan ",
+		"Mengekspresikan ide ide yang berbeda dan kelompok, namun tetap mengikuti suara mayoritas"
+    ],
+    "cara_mempengaruhi": [
+		"Bekerja keras dan selalu dalam keadaan siap ",
+		"Secara pelan-pelan membangkitkan ide-ide dan membolehkan orang lain mengikutinya ",
+		"Menunjukkan minat yang tulus terhadap sudut pandang orang lain"
+    ],
+    "kontribusi": [
+		"Membujuk orang-orang untuk bekerja sama dalam sistem ",
+		"Bekerja dengan ketelitian dan ketepatan ",
+		"Memperlihatkan humor yang ringan dan dedikasi pada tugas ",
+		"Menyediakan informasi mengenai latar belakang secara bertanggung jawab dan teliti"
     ]
   },
   {
@@ -80,6 +296,40 @@
       "Mengajar",
       "Literatur",
       "Seni"
+    ],
+	"kecenderungan": [
+		"Kesetiaan terhadap tugas dan kewajiban yang berhubungan dengan gagasan atau orang yang mereka pedulikan ",
+		"Perfeksionisme bila mereka menyukai sesuatu ",
+		"Mengambil pendekatan yang sangat pribadi terhadap hidup ",
+		"Menilai segala sesuatu dengan cita-cita batiniah dan nilai-nilai pribadi mereka ",
+		"Berpegang teguh pada impian ideal mereka dengan keyakinan yang bersemangat ",
+		"Kesetiaan batiniah dan impian ideal mengendalikan hidup mereka ",
+		"Enggan membuka perasaan yang terdalam ",
+		"Toleransi, berpikiran terbuka, pemahaman, fleksibilitas dan kemampuan beradaptasi dalam masalah-masalah sehari-hari ",
+		"Sedikit kerinduan untuk mengesankan atau mendominasi ",
+		"Menghargai mereka yang memahami nilai-nilai dan tujuan mereka"
+    ],
+    "penyeimbang": [
+		"Tidak menghabiskan terlalu banyak waktu sendirian mengembangkan nilai-nilai yang hanya memiliki potensi yang kecil ",
+		"Tidak menghabiskan terlalu banyak waktu dalam kegiatan-kegiatan ekstrovert yang menyebabkan mereka menjadi berserakan dan tak teratur ",
+		"Memiliki seorang pendukung yang dapat menjaga mereka agar tetap berfokus pada tujuan ",
+		"Dapat menemukan saluran untuk mengekspresikan gagasan-gagasan mereka"
+    ],
+    "cara_memimpin": [
+		"Meningkatkan usaha kelompok dengan menciptakan suasana yang positif dan menghargai setiap anggota kelompok ",
+		"Memperoleh persetujuan bersama untuk mendukung cita-cita dan nilai-nilai kelompok ",
+		"Memberikan visi dengan berbicara mengenai cita-cita dan nilai-nilai"
+    ],
+    "cara_mempengaruhi": [
+		"Menantang, menstimulir, membangkitkan, dan meyakinkan ",
+		"Mendorong orang lain untuk melihat kemungkinan-kemungkinan baru ",
+		"Berfokus pada cita-cita umum dan pokok-pokok persoalan yang mendasar"
+    ],
+    "kontribusi": [
+		"Memberikan ide-ide yang merangsang tindakan dan kemungkinan-kemungkinan yang berdasarkan gambar keseluruhan ",
+		"Menciptakan persatuan dan kerukunan tim dengan mendengarkan secara peka ",
+		"Memotivasi dan memberi inspirasi kepada orang lain untuk melewati batas norma yang ada ",
+		"Mendukung anggota tim dan tujuan tim dengan humor yang sopan"
     ]
   },
   {
@@ -93,6 +343,45 @@
       "Pengajar",
       "Pemikir abstrak dalam bidang-bidang seperti ekenomi, filsafat, dan psikologi",
       "Scholar/cendekiawan"
+    ],
+	"kecenderungan": [
+		"Membuat penilaian logis tentang kemungkinan-kemungkinan non-personal ",
+		"Konseptual dan analitis ",
+		"Kritis secara obyektif ",
+		"Berfokus lebih pada gagasan daripada orang di balik gagasan ",
+		"Lingkaran kecil sahabat-sahabat dekat ",
+		"Pendiam dan penyegan ",
+		"Sangat ingin tahu mengenai gagasarvgagasan baru ",
+		"Menjadi terlalu tenggelam dalam gagasan dan mengabaikan situasi-situasi eksternal ",
+		"Kerinduan untuk memahami misteri kompleks dari hal-hal yang bukan pribadi ",
+		"Pada umumnya gampangan (easy-going) dan mudah beradaptasi"
+    ],
+    "penyeimbang": [
+		"Memiliki orang-orang lain di sekitar mereka yang dapat menolong dengan gambaran menyeluruh ",
+		"Berusaha untuk melihat nilai-nilai dan perasaan orang lain ",
+		"Tidak menekan nilai-nilai pribadi mereka sendiri ",
+		"Mencari cara yang tepat untuk mengatasi tekanan ",
+		"Belajar menyederhanakan argumentasi mereka ",
+		"Mengembangkan PERSEPSI mereka ",
+		"Memiliki lebih banyak kontak dengan dunia luar ",
+		"Belajar menyatakan penghargaan terhadap pekerjaan dan hubungan pribadi ",
+		"Menyeimbangkan waktu-waktu ekstrovert dan introvert"
+    ],
+    "cara_memimpin": [
+		"Membolehkan semua anggota tim untuk menggunakan keahlian mereka ",
+		"Menetapkan agenda, lalu menjelaskan dan tetap fokus pada agenda tersebut ",
+		"Menyediakan pilihan sehingga keputusan dapat diambil berdasarkan suara terbanyak atau persetujuan bersama"
+    ],
+    "cara_mempengaruhi": [
+		"Menggunakan logika dan nalar ",
+		"Menyimpulkan dan menggeneralisasikan ",
+		"Memahami pokok persoalan dengan baik dan bertindak sebagai sumber daya bagi orang lain"
+    ],
+    "kontribusi": [
+		"Menyediakan baik visi kritis dan pemahaman intelektual ",
+		"Memecahkan masalah yang berkaitan dengan konsep dan isi ",
+		"Menguraikan prinsip-prinsip yang menjadi dasar pekerjaan ",
+		"Menjelaskan informasi dan mengobservasi data secara objektif dan netral"
     ]
   },
   {
@@ -109,6 +398,45 @@
       "Rekreasi",
       "Produksi",
       "Konstruksi"
+    ],
+	"kecenderungan": [
+		"Menghadapi hidup secara realistik dan tak pribadi ",
+		"Bersahabat, realisme yang dapat beradaptasi ",
+		"Bersandar pada apa yang mereka lihat, dengar dan ketahui dari tangan pertama ",
+		"Menerima dengan baik dan menggunakan fakta di sekitar mereka ",
+		"Mencari solusi-solusi yang memuaskan ",
+		"Kemampuan beradaptasi ",
+		"Berpikiran terbuka dan toleransi ",
+		"Keterampilan pemecahan masalah ",
+		"Menggunakan aturan-aturan, sistem atau situasi saat ini sebagai penolong, bukan penghalang ",
+		"Keingintahuan terhadap orang, kegiatan, makanan, obyek atau pemandangan ",
+		"Membuat keputusan berdasarkan analisis logis pikiran bukan nilai-nilai perasaan pribadi ",
+		"Keuletan bila dituntut situasi"
+    ],
+    "penyeimbang": [
+		"Memiliki orang-orang pendukungyang intuitif di sekitar mereka ",
+		"Memiliki orang-orang yang berpikiran positif di sekitar mereka untuk menghindarkan mereka berfokus pada hal-hal negatif ",
+		"Mengembangkan PIKIRAN mereka sehingga mereka dapat menggunakan prinsip-prinsip mereka untuk memberikan standar bagi perilaku, arah dan tujuan dalam hidup mereka ",
+		"Mengembangkan PENILAIAN dengan memadai untuk memberikan watak dan sikap ketekunan/kesetiaan ",
+		"Waktu-waktu ekstrovert diseimbangkan untuk menghindarkan dari sikap impulsif ",
+		"Belajar mengemukakan apa yang mereka sukai, bukan sekedar apa yang perlu dikoreksi ",
+		"Memiliki lebih banyak waktu-waktu ekstrovert dibandingkan waktu-waktu introvert"
+    ],
+    "cara_memimpin": [
+		"Menentukan cara paling efektif untuk bekerja sama ",
+		"Mengartikulasi masalah, mengumpulkan pendapat, menawarkan alternatif, merangkum dan membuat keputusan yang akan berhasil ",
+		"Memotivasi grup untuk bertindak"
+    ],
+    "cara_mempengaruhi": [
+		"Menentukan tujuan, maksud, arah, dan tolak ukur ",
+		"Bertindak cepat untuk memperkuat atau memodifikasi usulan/proposal ",
+		"Bersikap antusias, logis, dan tidak menghakimi usul-usul yang disampaikan orang lain"
+    ],
+    "kontribusi": [
+		"Menyediakan pemecahan masalah yang cerdik untuk memberikan hasil yang praktis ",
+		"Mengambil tanggung jawab untuk menemukan sumber daya, menghilangkan rintangan, dan memecahkan kesulitan-kesulitan ",
+		"Memiliki semangat optimisme dan kebulatan tekad yang antusias untuk berhasil ",
+		"Rela berkompromi untuk menggerakkan tim"
     ]
   },
   {
@@ -125,6 +453,42 @@
       "Troubleshooting",
       "Sekretaris",
       "Operasi mesin"
+    ],
+	"kecenderungan": [
+		"Bersandar pada apa yang mereka lihat, dengar dan ketahui dari tangan pertama ",
+		"Menerima dan menggunakan fakta di sekitar mereka ",
+		"Mencari solusi-solusi yang memuaskan ",
+		"Kemampuan beradaptasi ",
+		"Berpikiran terbuka dan toleransi ",
+		"Keterampilan pemecahan masalah ",
+		"Menggunakan aturan-aturan, sistem atau situasi saat ini sebagai penolong, bukan penghalang ",
+		"Keingintahuan terhadap orang, kegiatan, makanan, obyek atau pemandangan ",
+		"Membuat keputusan berdasarkan nilai-nilai perasaan pribadi bukan analisis logis ",
+		"Tertarik pada orang, penuh akal dan simpatik"
+    ],
+    "penyeimbang": [
+		"Lebih berdisiplin dengan orang-orang lain ",
+		"Gagasan abstrak dan teori dijelaskan kepada mereka dan diuji dalam pengalaman mereka ",
+		"Dapat melihat relevansi suatu gagasan atau teori ",
+		"PERASAAN mereka dikembangkan sehingga nilai-nilai mereka memberikan standar bagi perilaku mereka ",
+		"Penilaian dikembangkan untuk memberikan watak dan sikap ketekunan/kesetiaan ",
+		"Waktu-waktu ekstrovert diseimbangkan dengan waktu introvert"
+    ],
+    "cara_memimpin": [
+		"Memulai proses dan merangkum keputusan-keputusan yang diambil ",
+		"Mendorong anggota tim untuk bekerja sama dan menghargai kekuatan setiap anggota ",
+		"Tidak berusaha mempengaruhi sebelum semua opini dan saran dikemukakan"
+    ],
+    "cara_mempengaruhi": [
+		"Membuat orang lain bersemangat dan termotivasi ",
+		"Mengundang orang lain untuk berpartisipasi dalam suatu usaha atau tugas ",
+		"Mengerjakan tugas dengan senang hati"
+    ],
+    "kontribusi": [
+		"Mendorong orang lain untuk menghasilkan hasil yang positif ",
+		"Bersikap antusias dalam memastikan semua orang bekerja sarana dan mempunyai kesempatan untuk berpartisipasi ",
+		"Menjadi penghibur yang mencairkan suasana datam situasi-situasi tegang ",
+		"Membangun semangat dengan menjadi produktif dan dimengerti dengan jeias"
     ]
   },
   {
@@ -139,6 +503,38 @@
       "Menulis",
       "Penjualan",
       "Periklanan"
+    ],
+	"kecenderungan": [
+		"Mencari kemungkinan-kemungkinan dan cara-cara baru melakukan berbagai hal ",
+		"Memecahkan masalah-masalah sulit dengan cara-cara yang sederhana ",
+		"Mengubah proyek dan peluang-peluang baru demi kreativitas ",
+		"Kesempatan untuk mengembangkan dan mengilhami potensi dalam diri orang-orang lain ",
+		"Membangkitkan semangat ",
+		"Menciptakan lingkungan yang penuh semangat dan motivasi ",
+		"Mengkaji hal-hal, sementara terus mempertimbangkan pemecahannya"
+    ],
+    "penyeimbang": [
+		"Mengembangkan penilaian mereka yang berdasarkan perasaan ",
+		"Belajar meneruskan dan menyelesaikan apa yang telah mereka mulai ",
+		"Menyeimbangkan waktu ekstrovert dan introvert mereka ",
+		"Perasaan introvert mereka berkembang baik"
+    ],
+    "cara_memimpin": [
+		"Secara demokratis mengumpulkan semua pendapat, mendengarkan dengan seksama, dan merundingkan perbedaan-perbedaan ",
+		"Berfokus pada hal-hal yang disetujui bersama ",
+		"Mengembangkan hubungan pribadi dengan anggota tim"
+    ],
+    "cara_mempengaruhi": [
+		"Memberi mereka kesempatan untuk berbagi, mengenali dan mengakui kontribusi mereka ",
+		"Melibatkan mereka dalam ide-ide dan visi ",
+		"Menawarkan alternatif-alternatif yang positif untuk dipertimbangkan ",
+		"Memancarkan rasa antusias dan semangat yang menular"
+    ],
+    "kontribusi": [
+		"Memberdayakan orang lain ",
+		"Menyumbangkan ide-ide kreatif, nilai-nilai yang berpusat pada orang, dan kemungkinan-kemungkinan yang tak terbatas ",
+		"Memahami orang lain dan membuat mereka merasa diperhitungkan dalam tim ",
+		"Mencari kemungkinan-kemungkinan unik untuk orang lain"
     ]
   },
   {
@@ -152,6 +548,40 @@
       "Analisis komputer",
       "Hampir semua yang sungguh-sungguh mereka minati",
       "Promotor"
+    ],
+	"kecenderungan": [
+		"Mahir berurusan dengan teori dan hal-hal abstrak ",
+		"Mencari kemungkinan-kemungkinan dan cara-cara baru melakukan banyak hal ",
+		"Imajinasi dan inisiatif memulai proyek-proyek ",
+		"Perseptif terhadap sikap orang-orang lain ",
+		"Bertujuan untuk memahami daripada menghakimi orang ",
+		"Proyek yang berubah-ubah dan kesempatan-kesempatan baru demi kreativitas ",
+		"Kesempatan untuk mengembangkan dan mengilhami potensi dalam diri orang lain ",
+		"Membangkitkan semangat dan efektif dalam memotivasi orang lain ",
+		"Nakal dan mencintai kesenangan (fun) ",
+		"Membenci rutinitas yang tak memberi ilham"
+    ],
+    "penyeimbang": [
+		"Mengembangkan penilaian mereka ",
+		"Belajar meneruskan dan menyelesaikan apa yang telah rnereka mulai ",
+		"Menyeimbangkan waktu ekstrovert dan introvert mereka ",
+		"Mengembangkan dengan baik perasaan introvert mereka"
+    ],
+    "cara_memimpin": [
+		"Melibatkan orang-orang yang terbaik dan memadukan minat-minat dari anggota tim menjadi suatu rencana tindakan ",
+		"Membolehkan terjadinya saling pengaruh yang dinamis antara proses dan isi ",
+		"Membangkitkan ide-ide"
+    ],
+    "cara_mempengaruhi": [
+		"Menawarkan perspektif yang berbeda, dan informasi atau data riset yang dibutuhkan ",
+		"Mempertanyakan dan memberi kritik terhadap berbagai kemungkinan ",
+		"Menantang diri sendiri dan orang lain untuk menjangkau melebihi tugas yang diwajibkan"
+    ],
+    "kontribusi": [
+		"Membentuk dan menjelaskan ide-ide dengan pengertian-pengertian baru yang kreatif ",
+		"Berfokus pada pemecahan masalah dan mengatasi keterbatasan ",
+		"Menyediakan analisa dan perpaduan informasi ",
+		"Memperlihatkan energi dan humor yang tinggi"
     ]
   },
   {
@@ -161,6 +591,46 @@
       "Posisi-posisi eksekutif",
       "Bisnis",
       "Industri, produksi"
+    ],
+	"kecenderungan": [
+		"Menggunakan pikiran mereka untuk mengendalikan sibisa mungkin dunia mereka ",
+		"Mengorganisir proyek-proyek, lalu mengusahakan agar terselesaikan ",
+		"Bersifat logis, analitis dan kritis secara obyektif ",
+		"Bersandar pada pemikiran ",
+		"Fokus pada pekerjaan, bukan orang di balik pekerjaan ",
+		"Mengorganisir fakta-fakta, situasi dan operas! yang berhubungan dengan suatu proyek ",
+		"Membuat usaha sistematis untuk mencapai sasaran mereka pada waktunya ",
+		"Kurang kesabaran terhadap situasi kebingungan atau ketidakefisienan ",
+		"Kepercayaan bahwa perilaku harus dikendalikan oleh logika ",
+		"Hidup dengan serangkaian aturan yang tertentu yang merangkum penilaian dasar mereka mengenai dunia ",
+		"Memandang realita-realita saat ini, bukan kemungkinan-kemungkinan masa depan ",
+		"Tidak berbelit-belit, praktis, realistis dan terbeban pada keadaan saat ini"
+    ],
+    "penyeimbang": [
+		"Memiliki orang-orang pendukung untuk memperhatikan beberapa hal detil tertentu ",
+		"Memiliki orang-orang pendukung di sekitar mereka dengan akal sehat untuk mengemukakan fakta-fakta yang luput dari perhatian ",
+		"Sepenuhnya menguji suatu situasi sebelum mengambil suatu keputusan ",
+		"Berhenti dan mendengarkan sudut pandang orang-orang lain ",
+		"Berusaha memperhatikan nilai-nilai PERASAAN ",
+		"Mengembangkan seni menghargai gagasan dan prestasi orang-orang lain ",
+		"Belajar mengemukakan apa yang mereka sukai, bukan sekedar apa yang perlu dikoreksi ",
+		"Memiliki lebih banyak waktu-waktu ekstrovert dibandingkan waktu-waktu introvert"
+    ],
+    "cara_memimpin": [
+		"Memberikan arah, mencari input dan ide-ide, dan mengembangkan rencanayang berorientasi pada hasil ",
+		"Menegaskan dan menjelaskan pokok-pokok persoalan, tujuan, maksud, dan masalah ",
+		"Memastikan dengan jelas tanggung jawab setiap orang"
+    ],
+    "cara_mempengaruhi": [
+		"Menantang orang lain untuk berpikir dan berusaha sebaik mungkin ",
+		"Menegaskan tugas dan mengidentifikasikan pokok-pokok persoalan agar sesuai dengan tujuan pribadi ",
+		"Memberi contoh perilaku untuk menyelesaikan tugas dan memperlihatkan energi dan komitmen yang tinggi"
+    ],
+    "kontribusi": [
+		"Memberikan struktur yang logis dalam mengidentifikasikan masalah dan mengimplementasikan solusi ",
+		"Membawa rangsangan energi ke dalam perencanaan dan penyelesaian tugas ",
+		"Berurusan dengan orang lain secara langsung dan serius ",
+		"Dengan cepat memusatkan perhatian secara jelas pada apa yang harus dilakukan selanjutnya"
     ]
   },
   {
@@ -171,6 +641,43 @@
       "Pengkhotbah",
       "Penjual",
       "Profesi Kesehatan"
+    ],
+	"kecenderungan": [
+		"Memancarkan simpati dan persekutuan ",
+		"Hubungan manusiawi yang harmonis ",
+		"Bersahabat, bijaksana dan simpatik ",
+		"Tekun, teliti dan teratur ",
+		"Dihangatkan karena persetujuan dan peka terhadap sikap masa bodoh ",
+		"Berkonsentrasi pada sifat-sifat orang lain yang patut dipuji ",
+		"Kesetiaan terhadap orang-orang yang dihormati, lembaga atau pelayanan ",
+		"Mengidealkan apayang mereka kagumi ",
+		"Kemampuan melihat nilain pada pendapat orang lain ",
+		"Mudah setuju terhadap pendapat orang lain dalam batas-batas yang masuk akal ",
+		"Belas kasihan dan kesadaran akan kondisi fisik"
+    ],
+    "penyeimbang": [
+		"Memiliki orang-orang pendukung yang mengelola bidang-bidang yang menuntut ketelitian fakta seperti akuntansi ",
+		"Berusaha untuk bersikap ringkas dan profesional ",
+		"Tidak membiarkan sikap-sikap sosial memperlambat mereka dalam pekerjaan ",
+		"Mengambil waktu untuk memperoleh pengetahuan tangan pertama tentang seseorang atau situasi sebelum membuat suatu asumsi ",
+		"Menghadapi fakta-fakta yang tak dapat disetujui, daripada mengabaikan masalah-masalah mereka ",
+		"Memiliki lebih banyak waktu-waktu ekstrovert daripada waktu introvert"
+    ],
+    "cara_memimpin": [
+		"Menciptakan suasana dimana setiap orang mengerti pentingnya peran mereka dalam tim ",
+		"Bekerja sama dalam menegaskan tugas dan struktur, menentukan siapa dalam tim yang akan menyampaikan tugas-tugas tersebut ",
+		"Berusaha mencapai mufakat dan persetujuan dengan mengikuti agenda dan menghargai komitmen terhadap waktu"
+    ],
+    "cara_mempengaruhi": [
+		"Menemukan cara-cara praktis untuk membawa tim kepada kesimpulan yang jelas ",
+		"Mendorong orang lain memberikari kontribusi terhadap fungsi tim ",
+		"Menggunakan argumen-argumen persuasif yang mempertimbangkan perasaaan orang"
+    ],
+    "kontribusi": [
+		"Memberikan sudut pandang yang sistematis dan praktis ",
+		"Meminta kontribusi dari orang lain dan mengakui dan menghargai ide-ide mereka ",
+		"Menambah keharmonisan dalam tim melalui pengorganisasian yang teliti, sikap antusias dan humor ",
+		"Menjelaskan dengan cara lebih banyak bertanya dibandingkan memberi jawaban"
     ]
   },
   {
@@ -181,6 +688,41 @@
       "Pengkhotbah",
       "Penjual",
       "Konseling"
+    ],
+	"kecenderungan": [
+		"Memancarkan simpati dan persekutuan ",
+		"Hubungan manusiawi yang harmonis ",
+		"Bersahabat, bijaksana dan simpatik ",
+		"Tekun, teliti dan teratur ",
+		"Dihangatkan karena persetujuan dan peka terhadap sikap masa bodoh ",
+		"Berkonsentrasi pada sifat-sifat orang lain yang patut dipuji ",
+		"Kesetiaan terhadap orang-orang yang dihormati, lembaga atau pelayanan ",
+		"Mengidealkan apa yang mereka kagumi ",
+		"Kemampuan melihat nilai pada pendapat orang-orang lain ",
+		"Mudah setuju terhadap pendapat orang lain dalam batas-batas yang masuk akal"
+    ],
+    "penyeimbang": [
+		"Memiliki orang-orang pendukung yang mengelola bidang-bidang yang membutuhkan ketelitian fakta seperti akuntansi ",
+		"Berusaha untuk bersikap ringkas dan profesional ",
+		"Tidak membiarkan sikap-sikap sosial memperlambat mereka dalam pekerjaan ",
+		"Mengambil waktu untuk memperoleh pengetahuan dari tangan pertama (sumber) tentang seseorang atau situasi sebelum membuat suatu asumsi. ",
+		"Menghadapi fakta-fakta yang tak dapat disetujui, dari pada mengabaikan masalah-masalah mereka"
+    ],
+    "cara_memimpin": [
+		"Memudahkan pencapaian tujuan melalui kerja sama dan mempertimbangkan semua pendapat ",
+		"Menyediakan rencana yang berwawasan dan terfokus untuk mencapai tujuan ",
+		"Memanfaatkan semua sumber daya anggota tim dan memastikan adanya"
+    ],
+    "cara_mempengaruhi": [
+		"Mendorong orang lain untuk mendengarkan semua pendapat ",
+		"Mengajak anggota tim untuk tidak hanya memperhatikan isi, tapi juga proses ",
+		"Menciptakan organisasi yang jelas dengan agenda, garis waktu, dan penyelesaian tugas"
+    ],
+    "kontribusi": [
+		"Menyediakan struktur dan organisasi ",
+		"Membangun persetujuan bersama melalui penjelasan, kolaborasi dan kerja sama ",
+		"Memberdayakan dan memberi inspirasi kepada orang lain melalui wawasan dan kepekaan ",
+		"Memberi kekuatan kepada tim dengan sikap antusias dan humor"
     ]
   },
   {
@@ -189,6 +731,44 @@
     "bidang_karir":  [
       "Posisi-posisi eksekutif",
       "Pekerjaan yang memungkinkan mereka merencankan gambaran besar"
+    ],
+	"kecenderungan": [
+		"Tindakan eksekutif dan perencanaan jangka panjang ",
+		"Bersifat logis, analitis, dan kritis secara obyektif ",
+		"Bersandar pada pemikiran ",
+		"Fokus pada gagasan, bukan orang di balik gagasan ",
+		"Berpikir lebih dulu, mengatur perencanaan, situasi, dan operas! yang berhubungan dengan suatu proyek ",
+		"Membuat usaha sistematis untuk mencapai sasaran mereka pada waktunya ",
+		"Kurang kesabaran terhadap situasi kebingungan atau ketidakefisienan ",
+		"Kepercayaan bahwa perilaku harus dikendalikan oleh logika ",
+		"Hidup dengan serangkaian aturan yang tertentu yang merangkum penilaian dasar mereka mengenai dunia ",
+		"Memandang apayang tidak logis dan tidak konsisten"
+    ],
+    "penyeimbang": [
+		"Memiliki orang-orang pendukung untuk memperhatikan hal-hal detil tertentu ",
+		"Memiliki orang-orang pendukung di sekitar mereka dengan akal sehat untuk mengemukakan fakta-fakta yang luput dari perhatian ",
+		"Sepenuhnya menguji suatu situasi sebelum mengambil suatu keputusan ",
+		"Berhenti dan mendengarkan sudut pandang orang-orang lain ",
+		"Berusaha memperhatikan nilai-nilai PERASAAN ",
+		"Mengembangkan seni menghargai gagasan dan prestasi orang-orang lain ",
+		"Belajar mengemukakan apa yang mereka sukai, bukan sekedar apa yang perlu dikoreksi ",
+		"Memiliki lebih banyak waktu-waktu ekstrovert dibandingkan waktu-waktu introvert"
+    ],
+    "cara_memimpin": [
+		"Menyediakan contoh model untuk meningkatkan pemahaman dan penyelesaian ",
+		"Menjelaskan dan mengarahkan kembali ",
+		"Memberikan visi dan memberi semangat kepada orang lain untuk berpartisipasi secara aktif"
+    ],
+    "cara_mempengaruhi": [
+		"Menggunakan logika yang bersifat terus terang ",
+		"Menemukan kekurangan dalam kemungkinan-kemungkinan ",
+		"Berdedikasi penuh pada tugas"
+    ],
+    "kontribusi": [
+		"Berorientasi pada tujuan dan terorganisir, serta memberikan hasil seperti yang diproyeksikan ",
+		"Menganalisa proses, memecahkan masalah, dan secara objektif mengkritik solusi-solusi yang potensial ",
+		"Berkonsentrasi pada ide-ide yang relevan dengan gambar keseluruhan ",
+		"Membawa semangat pada pelaksanaan tugas"
     ]
   }
 ]

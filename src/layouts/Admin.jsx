@@ -34,7 +34,7 @@ class Admin extends React.Component {
   }
   getRoutes = routes => {
     return routes.map((prop, key) => {
-      if (prop.layout === "/admin") {
+      if (prop.layout === "/main") {
         return (
           <Route
             path={prop.layout + prop.path}
@@ -67,7 +67,7 @@ class Admin extends React.Component {
           routes={routes}
           logo={{
             innerLink: "/admin/index",
-            imgSrc: require("assets/img/brand/argon-react.png"),
+            imgSrc: require("assets/img/brand/ukrida.png"),
             imgAlt: "..."
           }}
         />

@@ -20,6 +20,9 @@ class ResultsComponent extends React.Component{
     }
 
 
+    seeMoreInfos = () => {
+        this.props.history.push("/admin/info")
+    }
 
     showPersonality = () => {
         let res = "";
@@ -32,6 +35,11 @@ class ResultsComponent extends React.Component{
         if(this.state.perCF > this.state.judCF) res+= "P";
         else res+="J";
         return res;
+    }
+
+    showMoreInfos = (event) => {
+        event.preventDefault();
+        this.props.history.push('/main/infos', {personType: this.showPersonality()})
     }
 
     render() {
@@ -47,8 +55,8 @@ class ResultsComponent extends React.Component{
                 indexLabel: "{label}: {y}%",
                 startAngle: -90,
                 dataPoints: [
-                    { y: this.state.inCF, label: "Introvert" },
-                    { y: this.state.exCF, label: "Extrovert" }
+                    { y: this.state.exCF, label: "Introvert" },
+                    { y: this.state.inCF, label: "Extrovert" }
                 ]
             }]
         };
@@ -162,13 +170,8 @@ class ResultsComponent extends React.Component{
                                                 <h1>Kepribadian Mu adalah Tipe</h1>
                                                 <h2 style={{fontSize: 32}} className={"text-weight-bold"}>{this.showPersonality()}</h2>
                                                 {imageToPlace}
-                                                <Card>
-                                                    <CardBody>
-                                                        <div>
-                                                            <h4>TEst tsts</h4>
-                                                        </div>
-                                                    </CardBody>
-                                                </Card>
+                                                <h2>Klik tombol dibawa untuk melihat informasi mengenai kepribadian ini</h2>
+                                                <button onClick={this.showMoreInfos} class={"btn btn-primary"}>See Infos</button>
                                             </div>
                                         </div>
                                     </div>

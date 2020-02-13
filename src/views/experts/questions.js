@@ -20,8 +20,11 @@ class QuestionsComponent extends React.Component{
             FeeCF :0,
             questions: [],
             answers: [],
-            testScore: 0
-        }
+            types: ["Introvert vs Extrovert", "Sensing vs Intuition",
+                "Thinking vs Feeling", "Perceiving vs Judging"],
+            testScore: 0,
+            currentSection :0
+        };
 
         this.handleChange = this.handleChange.bind(this);
         this.calculateCF = this.calculateCF.bind(this);
@@ -51,7 +54,15 @@ class QuestionsComponent extends React.Component{
         array[index] = targetValue;
         this.setState({
             answers: array
-        })
+        });
+    };
+
+    handleNextQuestions = event =>{
+        event.preventDefault();
+        let index= this.state.currentSection+1;
+        this.setState({
+            currentSection: index
+        });
     }
 
     calculateCF = e => {
@@ -145,7 +156,7 @@ class QuestionsComponent extends React.Component{
                         intCF+=0.75 * 0.109;
                     }else if(i >= 18 && i < 27){
                         thinCF+=0.25 * 0.09;
-                         feeCF+= 0.75 * 0.109;
+                        feeCF+= 0.75 * 0.109;
                     }else{
                         perCF+= 0.25 * 0.09;
                         judCF+=0.75 * 0.109;
@@ -163,7 +174,7 @@ class QuestionsComponent extends React.Component{
                         feeCF+= 1 * 0.109;
                     }else{
                         perCF+= 0 * 0.09;
-                         judCF+= 1 * 0.109;
+                        judCF+= 1 * 0.109;
                     }
                     break;
             }
@@ -175,20 +186,19 @@ class QuestionsComponent extends React.Component{
         console.log(senCF+","+intCF);
 
         this.props.history.push({
-            pathname: "/admin/results",
+            pathname: "/main/results",
             state: {
-                inCF: inCF,
-                exCF: exCF,
-                senCF: senCF,
-                intCF: intCF,
-                thinCF: thinCF,
-                feeCF: feeCF,
-                perCF: perCF,
-                judCF: judCF
+                inCF: inCF*100,
+                exCF: exCF*100,
+                senCF: senCF*100,
+                intCF: intCF*100,
+                thinCF: thinCF*100,
+                feeCF: feeCF*100,
+                perCF: perCF*100,
+                judCF: judCF*100
             }
         });
-
-    }
+    };
 
     render(){
         return(
@@ -197,12 +207,12 @@ class QuestionsComponent extends React.Component{
                 <div className={"bg-gradient-success p-4"}>
                     {this.state.questions.map((value, index)=>{
                         return(
-                        <div className="row mx-4 bg-primary rounded p-4 my-3" key={index} style={{color: "white"}}>
-                            <div className="col-4 mt-1" style={{fontSize: 21}}>
+                        <div className="row mx-4 bg-warning rounded p-4 my-3" key={index} style={{color: "white"}}>
+                            <div className="col-4 mt-1 my-auto" style={{fontSize: 21}}>
                                <div style={{maxWidth: 120}}>{value.leftSide}</div>
                             </div>
                             <div className="col-4 d-flex flex-row">
-                                <div className={"d-flex flex-column"} style={{marginLeft: "-40%"}}>
+                                <div className={"d-flex flex-column"} style={{marginLeft:-130}}>
                                     <div className={"d-flex flex-row"}>
                                         <label className="container mx-4 my-auto">
                                             <input onChange={this.handleChange} type="radio" name={"radio-"+index} id={"radio-"+index} value={"1"}/>
@@ -225,13 +235,17 @@ class QuestionsComponent extends React.Component{
                                             <input onChange={this.handleChange} type="radio" name={"radio-"+index} id={"radio-"+index} value={"5"}/>
                                             <span className="checkmark" style={{width: 40, height: 40}}></span>
                                         </label>
+
                                     </div>
                                 </div>
-
+                                {/*<input onChange={this.handleChange} className={"custom-range"} min={1} max={5}
+                                       type="range" name={"radio-"+index}
+                                       id={"radio-"+index} defaultValue={"3"}/>*/}
                             </div>
-                            <div className="col-4 mt-1" style={{fontSize: 21}}>
+                            <div className="col-4 mt-1 my-auto" style={{fontSize: 21}}>
                                 <div className={'text-right'} style={{maxWidth: 240}}>{value.rightSide}</div>
                             </div>
+
                         </div>);
                     })}
                     <div className={"d-flex"}>

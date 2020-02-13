@@ -26,36 +26,42 @@ import HomePage from "./views/experts/homepage";
 import JobInfoPage from "./views/experts/jobinfo";
 import QuestionsComponent from "./views/experts/questions";
 import ResultsComponent from "./views/experts/results";
+import InfosComponent from "./views/experts/infos";
 var routes = [
   {
     path: "/home",
     name: "Home",
     icon: "ni ni-tv-2 text-primary",
     component: HomePage,
-    layout: "/admin"
+    layout: "/main"
   },
   {
     path: "/jobinfos",
     name: "Jobs Info",
     icon: "ni ni-single-02 text-primary",
     component: JobInfoPage,
-    layout: "/admin"
+    layout: "/main"
   },
   {
     path: "/questions",
     name: "Check Personality",
     icon: "ni ni-user-run text-primary",
     component: QuestionsComponent,
-    layout: "/admin"
+    layout: "/main"
   },
   {
     path: "/results",
     component: ResultsComponent,
-    layout: "/admin"
+    layout: "/main"
   },
-
-
   {
+    path: "/infos",
+    component: InfosComponent,
+    layout: "/main"
+  }
+
+
+  /*{
     path: "/index",
     name: "Dashboard",
     icon: "ni ni-tv-2 text-primary",
@@ -103,6 +109,6 @@ var routes = [
     icon: "ni ni-circle-08 text-pink",
     component: Register,
     layout: "/auth"
-  }
+  }*/
 ];
 export default routes;

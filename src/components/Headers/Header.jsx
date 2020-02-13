@@ -32,7 +32,7 @@ class Header extends React.Component {
         <div className="header bg-gradient-green pb-8 pt-5 pt-md-8">
           <Container fluid>
             <div className="header-body">
-              <h1 className={"text-center"}>{this.props.quotes}</h1>
+              <h1 style={{fontSize: 40}} className={"text-center"}>{this.props.quotes}</h1>
             </div>
           </Container>
         </div>

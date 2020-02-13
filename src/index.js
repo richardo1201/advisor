@@ -30,9 +30,9 @@ import HomePage from "./views/experts/homepage";
 ReactDOM.render(
   <BrowserRouter>
     <Switch>
-      <Route path="/admin" render={props => <AdminLayout {...props} />} />
+      <Route path="/main" render={props => <AdminLayout {...props} />} />
       <Route path="/auth" render={props => <AuthLayout {...props} />} />
-      {/*<Redirect from="/" to="/admin/index" />*/}
+      <Redirect from="/" to="/main/home" />
     </Switch>
   </BrowserRouter>,
   document.getElementById("root")
